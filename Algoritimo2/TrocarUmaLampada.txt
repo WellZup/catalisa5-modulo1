@@ -1,0 +1,14 @@
+Algoritmo básico que descreve como trocar uma lâmpada:
+
+1. Certifique-se de ter uma nova lâmpada adequada para substituir a que está queimada. Verifique o tipo e a potência da lâmpada antiga para comprar uma substituta compatível.
+2. Desligue o interruptor de energia que controla a lâmpada que você deseja trocar. Certifique-se de que a lâmpada esteja desligada antes de prosseguir.
+3. Aguarde alguns minutos para que a lâmpada esfrie, caso tenha sido usada recentemente.
+4. Se a lâmpada estiver em um lustre ou luminária, remova o globo ou a cúpula que a protege. Isso pode envolver girar ou desapertar o globo, dependendo do tipo de luminária.
+5. Com cuidado, segure a lâmpada antiga pela base e gire-a no sentido anti-horário para soltá-la do soquete. Se a lâmpada estiver emperrada, você pode precisar aplicar um pouco mais de força, mas tenha cuidado para não quebrar a lâmpada.
+6. Remova a lâmpada antiga do soquete e descarte-a adequadamente, seguindo as orientações locais para o descarte de lâmpadas queimadas.
+7. Segure a nova lâmpada pela base e alinhe os pinos ou a base com o soquete vazio.
+8. Insira a nova lâmpada no soquete e gire-a no sentido horário até que esteja firme. Tenha cuidado para não apertar excessivamente.
+9. Se necessário, recoloque o globo ou a cúpula de proteção.
+10. Ligue o interruptor de energia para testar a nova lâmpada. Se tudo estiver funcionando corretamente, a lâmpada deve acender.
+11. Se a nova lâmpada não acender, verifique se está bem conectada no soquete ou tente outra lâmpada nova.
+12. Parabéns! Você trocou com sucesso a lâmpada.
